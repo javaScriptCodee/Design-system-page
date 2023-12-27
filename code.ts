@@ -25,6 +25,8 @@ let pages = [
   "Style Components",
   "Typography Components",
   "-------------",
+  "Wireframes",
+  "-------------",
   "Design-v1 In Progress",
   "Design-v2 In Progress",
   "Design-v3 In Progress",
